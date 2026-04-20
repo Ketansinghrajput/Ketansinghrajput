@@ -10,7 +10,7 @@
 
 ## About
 
-Backend-focused engineer specializing in Java and Spring Boot, with a B.E. in Electronics and Telecommunication Engineering from SPPU. Currently working as a System Engineer Intern at EdgeVerve Systems, an Infosys subsidiary, based in Pune.
+Backend-focused engineer specializing in Java and Spring Boot, with a B.E. in Electronics and Telecommunication Engineering from SPPU. Currently working as a System Engineer Intern at EdgeVerve Systems.
 
 Interested in building scalable, production-grade backend systems — from REST API design to distributed architecture. Currently deepening expertise in Microservices and System Design.
 
@@ -59,7 +59,6 @@ Interested in building scalable, production-grade backend systems — from REST 
 
 - Mastering Spring Boot — REST, JPA, Security, Microservices patterns
 - Studying System Design — scalability, caching, message queues
-- Grinding DSA in Java via Striver's SDE Sheet
 - Building backend portfolio projects targeting production-grade architecture
 
 ---
