@@ -67,9 +67,9 @@ Architecting scalable backend systems using Spring Boot and Microservices, focus
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ketansinghrajput&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&border_color=30363d&hide_border=false&count_private=true&rank_icon=github&hide=prs,issues" />
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=Ketansinghrajput&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&border_color=30363d&hide_border=false&count_private=true&rank_icon=github&hide=prs,issues" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketansinghrajput&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=888888&border_color=30363d&hide_border=false&langs_count=6" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ketansinghrajput&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=888888&border_color=30363d&hide_border=false&langs_count=6" />
 
 </div>
 
